@@ -1,0 +1,12 @@
+size(500, 500);
+background(255);
+strokeWeight(1);
+stroke(#228B22);
+line(width * .10, height * .20, width * .75, height * .20);
+line(width * .08, height * .25, width * .78, height * .25);
+line(width * 0.07,height * 0.30, width * 0.78, height * 0.30);
+line(width * 0.08,height *0.30, width * 0.78, height * 0.30);
+line(width *0.03,height *0.30, width *0.75, height *0.25);
+line(width *0.08, height *0.25, width *0.75, height *0.25);
+line(width *.10, height *0.30, width *0.75, height *0.25);
+line(width *.10, height * .20, width *.75, height * .20);
